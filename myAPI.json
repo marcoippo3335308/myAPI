@@ -4,55 +4,56 @@
       "id": "sole",
       "nome": "Sole",
       "descrizione": "Il Sole è la stella nana gialla al centro del nostro sistema. Venerato come divinità da quasi tutte le civiltà antiche (come Helios o Ra), si è formato 4,6 miliardi di anni fa. Composto principalmente da idrogeno ed elio, la sua gravità tiene uniti i pianeti e la sua energia sostiene la vita sulla Terra.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "mercurio": {
       "id": "mercurio",
       "nome": "Mercurio",
       "descrizione": "Chiamato come il messaggero alato romano per la sua velocità orbitale, è il pianeta più piccolo e vicino al Sole. Privo di atmosfera significativa, presenta una superficie craterizzata simile alla Luna. Le escursioni termiche sono estreme, passando da temperature torride diurne a un gelo siderale durante la notte.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "venere": {
       "id": "venere",
       "nome": "Venere",
       "descrizione": "Dedicate alla dea della bellezza, Venere è il corpo più luminoso nel cielo notturno dopo la Luna. Spesso definito gemello della Terra per dimensioni, possiede un'atmosfera densissima di anidride carbonica che genera un effetto serra fuori controllo. È il pianeta più caldo del sistema solare.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "terra": {
       "id": "terra",
       "nome": "Terra",
       "descrizione": "Il nostro mondo è l'unico corpo celeste noto per ospitare la vita. Formatasi 4,5 miliardi di anni fa, la Terra possiede acqua allo stato liquido in superficie e un'atmosfera ricca di ossigeno. Il suo campo magnetico ci protegge dalle radiazioni solari, rendendola un'oasi biologica unica.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "marte": {
       "id": "marte",
       "nome": "Marte",
       "descrizione": "Il 'Pianeta Rosso' prende il nome dal dio della guerra per il suo colore ruggine, causato dall'ossido di ferro. È un mondo desertico con un'atmosfera sottile, vulcani giganti come il Monte Olimpo e canyon profondi. Studi recenti confermano la presenza di ghiaccio d'acqua sulla sua superficie.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "giove": {
       "id": "giove",
       "nome": "Giove",
       "descrizione": "Re dei pianeti e degli dei romani, Giove è il gigante gassoso più grande del sistema solare. Composto quasi interamente da gas, non ha una superficie solida. È famoso per la sua Grande Macchia Rossa, una tempesta secolare più grande della Terra, e per il suo vasto sistema di lune.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "saturno": {
       "id": "saturno",
       "nome": "Saturno",
       "descrizione": "Simbolo dell'agricoltura e del tempo, Saturno è celebre per il suo spettacolare sistema di anelli composti da ghiaccio e polveri. È il secondo gigante gassoso per dimensioni ma ha una densità talmente bassa che galleggerebbe nell'acqua. Possiede oltre cento lune, tra cui la misteriosa Titano.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "urano": {
       "id": "urano",
       "nome": "Urano",
       "descrizione": "Scoperto nel 1781 e intitolato al dio greco del cielo, Urano è un gigante ghiacciato. La sua caratteristica più insolita è l'asse di rotazione quasi orizzontale, che lo fa rotolare lungo l'orbita. L'atmosfera contiene metano, che gli conferisce un colore azzurro-verde pallido e temperature freddissime.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     },
     "nettuno": {
       "id": "nettuno",
       "nome": "Nettuno",
       "descrizione": "Portando il nome del dio del mare, Nettuno è il pianeta più lontano dal Sole. È un gigante ghiacciato blu intenso spazzato dai venti più forti del sistema solare, che superano i 2000 km/h. La sua esistenza fu predetta matematicamente prima di essere effettivamente osservata al telescopio nel 1846.",
-      "url": "https://marcoippo3335308.github.io"
+      "url": "https://marcoippo3335308.github.io/myAPI/"
     }
   }
 }
+
