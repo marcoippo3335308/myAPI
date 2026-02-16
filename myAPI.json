@@ -54,8 +54,12 @@
       "descrizione": "Portando il nome del dio del mare, Nettuno è il pianeta più lontano dal Sole. È un gigante ghiacciato blu intenso spazzato dai venti più forti del sistema solare, che superano i 2000 km/h. La sua esistenza fu predetta matematicamente prima di essere effettivamente osservata al telescopio nel 1846.",
       "url": "https://raw.githubusercontent.com/marcoippo3335308/myAPI/refs/heads/main/neptune3D.glb"
     }
+  },
+  "audio":{
+    "url": "https://raw.githubusercontent.com/marcoippo3335308/myAPI/refs/heads/main/Spacemusic.mp4"
   }
 }
+
 
 
 
